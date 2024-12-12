@@ -42,7 +42,7 @@ class C : public B{
 int main(){
    /*A obj1;
     B obj2;
-    C obj3;*/ 
+    C obj3;*/
     A obj1(1,2);
     cout<<endl;
     B obj2(3,4,5,6);
